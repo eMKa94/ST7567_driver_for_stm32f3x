@@ -1,0 +1,5 @@
+TARGET_COMPILER		=	gcc -c
+TARGET_LINKER		=	gcc
+
+TARGET_EXT			=	exe
+
